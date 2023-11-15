@@ -1,1 +1,2 @@
 glavnii file
+Sozdali krasnuiu knopku
